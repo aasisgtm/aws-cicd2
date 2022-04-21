@@ -1,2 +1,1 @@
-# aws-cicd2
-aws
+# aws-cicd
